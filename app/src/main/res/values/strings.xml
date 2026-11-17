@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MountainSpace</string>
+    <string name="previous_button">Sebelumnya</string>
+    <string name="next_button">Selanjutnya</string>
+
+    <string name="gede_title">Gunung Gede</string>
+    <string name="gede_location">Jawa Barat, Indonesia</string>
+    <string name="gede_elevation">2.958 mdpl</string>
+    <string name="gede_desc">Gunung populer di Taman Nasional Gede Pangrango yang terkenal dengan Alun-Alun Suryakencana dan Telaga Warna.</string>
+
+    <string name="ciremai_title">Gunung Ciremai</string>
+    <string name="ciremai_location">Jawa Barat, Indonesia</string>
+    <string name="ciremai_elevation">3.078 mdpl</string>
+    <string name="ciremai_desc">Gunung tertinggi di Jawa Barat dengan kawah ganda yang memukau dan keindahan alam yang asri.</string>
+
+    <string name="rinjani_title">Gunung Rinjani</string>
+    <string name="rinjani_location">Nusa Tenggara Barat, Indonesia</string>
+    <string name="rinjani_elevation">3.726 mdpl</string>
+    <string name="rinjani_desc">Gunung tertinggi kedua di Indonesia yang terkenal dengan pemandangan Danau Segara Anak di puncaknya.</string>
+
+    <string name="merbabu_title">Gunung Merbabu</string>
+    <string name="merbabu_location">Jawa Tengah, Indonesia</string>
+    <string name="merbabu_elevation">3.145 mdpl</string>
+    <string name="merbabu_desc">Gunung favorit para pendaki dengan pemandangan sabana hijau luas dan padang edelweis yang menawan.</string>
+
+    <string name="papandayan_title">Gunung Papandayan</string>
+    <string name="papandayan_location">Jawa Barat, Indonesia</string>
+    <string name="papandayan_elevation">2.665 mdpl</string>
+    <string name="papandayan_desc">Gunung berapi aktif di Garut yang terkenal dengan kawah belerang, Hutan Mati yang ikonik, dan Pondok Saladah.</string>
+</resources>
